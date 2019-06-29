@@ -1,7 +1,7 @@
 {
-    "name": "orangehill/iseed",
+    "name": "thanatosxia/iseed",
     "description": "Generate a new Laravel database seed file based on data from the existing database table.",
-    "keywords": ["laravel", "generators", "seed", "artisan"],
+    "keywords": ["lumen", "generators", "seed", "artisan"],
     "license": "BSD-2-Clause",
     "authors": [
         {
