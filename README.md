@@ -27,6 +27,13 @@ Latest Laravel versions have auto dicovery and automatically add service provide
 Orangehill\Iseed\IseedServiceProvider::class,
 ```
 
+### 3. Lumen config
+
+add config to /boostrap/app.php
+```php
+$app->register(Orangehill\Iseed\IseedServiceProvider::class);
+```
+
 ## Artisan command options
 
 ### [table_name]
